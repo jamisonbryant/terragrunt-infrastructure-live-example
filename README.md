@@ -1,10 +1,5 @@
 [![Maintained by Gruntwork.io](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://gruntwork.io/?ref=repo_terragrunt-infra-live-example)
 
-> [!WARNING]
-> This repository has been deprecated in favor of [terragrunt-infrastructure-live-stacks-example](https://github.com/gruntwork-io/terragrunt-infrastructure-live-stacks-example). Please use the new repository for the latest best practices and features.
->
-> Take special notice of the [Migration Guide](https://github.com/gruntwork-io/terragrunt-infrastructure-live-stacks-example/blob/main/docs/migration-guide.md) specifically written to help you migrate from using this repo to the new one.
-
 # Example infrastructure-live for Terragrunt
 
 This repo, along with the [terragrunt-infrastructure-modules-example
